@@ -1,0 +1,153 @@
+[
+    {
+        "name": "iphone18",
+        "url": "https://www.amazon.in/iPhone-18-Pro-TB-Burgundy/dp/B0HJ9TY8LW/ref=cs_sr_dp_4?crid=9DIGSRXKSP83&dib=eyJ2IjoiMSJ9.OsB_n8cCh396Usr3CAeP28q7LT4m7IzGSrsujsG3LbbLODfRCsnq7gtXHpB_YmShdHe3sh-wb4NvQM2kf7hQdDfKGwjDKKCK1g4Wvbk_BqsqVCpbvtXwnW1LxoiklEenz9b90B7ReD89R-PFJkHidsNC-tytCCXQE7ZRNJsgCZ7_FIFN49M8CI-6l1zSXa0JNgS7SvfIDEGSEyuLtKlNF3fxVxH1C5yFdUFQ6-BkbSs.JuQaSlXVPOTwE3zjbC26CtcWtR0MYFlZGoqNlRQfu0Q&dib_tag=se&keywords=iphone%2B17%2Bpro%2Bmax&qid=1790668876&sprefix=iphone17pro%2Caps%2C265&sr=8-3&th=1",
+        "target_price": 220000.0,
+        "email": "menikaranakal@gmail.com",
+        "id": 2,
+        "current_price": 239900.0,
+        "status": "Target price not reached",
+        "scraper": "selenium",
+        "price_history": [
+            {
+                "price": 45000.0,
+                "timestamp": "2026-09-28T11:29:44.789825"
+            },
+            {
+                "price": 45000.0,
+                "timestamp": "2026-09-28T13:38:20.667730"
+            },
+            {
+                "price": 45000.0,
+                "timestamp": "2026-09-28T18:35:38.238446"
+            },
+            {
+                "price": 45000.0,
+                "timestamp": "2026-09-29T11:35:11.096290"
+            },
+            {
+                "price": 45000.0,
+                "timestamp": "2026-09-29T11:56:15.017115"
+            },
+            {
+                "price": 239900.0,
+                "timestamp": "2026-09-30T13:09:13.343636"
+            },
+            {
+                "price": 239900.0,
+                "timestamp": "2026-09-30T13:11:14.255645"
+            },
+            {
+                "price": 239900.0,
+                "timestamp": "2026-09-30T13:11:53.155535"
+            }
+        ],
+        "alert_sent": true
+    },
+    {
+        "name": "allen solly",
+        "url": "https://www.amazon.in/Allen-Solly-Regular-T-Shirt-AHKCCRGPP98080_Black/dp/B094Y43CM3/?_encoding=UTF8&pd_rd_w=QvWpf&content-id=amzn1.sym.bc73784e-baef-4ea6-a767-0130d0ae7027%3Aamzn1.symc.2424c2f0-06b1-48ef-9036-ae027608fc7f&pf_rd_p=bc73784e-baef-4ea6-a767-0130d0ae7027&pf_rd_r=NZN9E93YNPKFQ5RWBVNA&pd_rd_wg=OJLdG&pd_rd_r=791dfb8f-68f7-4a10-9688-41a4a3bc6d95&ref_=pd_hp_d_r_btf_ci_mcx_mr_hp_m&th=1&psc=1",
+        "target_price": 415.0,
+        "email": "menikaranakal@gmail.com",
+        "scraper": "selenium",
+        "id": 4,
+        "price_history": [
+            {
+                "price": 415.0,
+                "timestamp": "2026-09-30T16:23:10.087403"
+            },
+            {
+                "price": 415.0,
+                "timestamp": "2026-09-30T16:24:30.151470"
+            },
+            {
+                "price": 415.0,
+                "timestamp": "2026-09-30T16:26:30.542061"
+            },
+            {
+                "price": 415.0,
+                "timestamp": "2026-09-30T18:13:07.788026"
+            }
+        ],
+        "current_price": 415.0,
+        "status": "Target price reached",
+        "alert_sent": true
+    },
+    {
+        "name": "men allen solly",
+        "url": "https://www.amazon.in/Allen-Solly-Regular-T-Shirt-ASKPQRGF701338_Medium/dp/B08KTVFFHF/?_encoding=UTF8&pd_rd_w=mYRa2&content-id=amzn1.sym.b919c641-8e33-49fa-a820-0b6961c2556f&pf_rd_p=b919c641-8e33-49fa-a820-0b6961c2556f&pf_rd_r=96K194JW2GBRE0W7XYW8&pd_rd_wg=9kt1Z&pd_rd_r=fefe3666-dcb0-4eae-b13e-4847ea39be56&ref_=pd_hp_d_r_btf_a2i_gw_cml&th=1&psc=1",
+        "target_price": 700.0,
+        "email": "menikaranakal@gmail.com",
+        "scraper": "selenium",
+        "id": 5,
+        "current_price": 769.0,
+        "price_history": [
+            {
+                "price": 769.0,
+                "timestamp": "2026-09-30T21:33:46.812128"
+            },
+            {
+                "price": 769.0,
+                "timestamp": "2026-09-30T21:34:07.447677"
+            }
+        ],
+        "status": "Target price not reached"
+    },
+    {
+        "name": "Test Negative Price",
+        "url": "https://www.amazon.in/Allen-Solly-Regular-T-Shirt-ASKPQRGF701338_Medium/dp/B08KTVFFHF/?_encoding=UTF8&pd_rd_w=mYRa2&content-id=amzn1.sym.b919c641-8e33-49fa-a820-0b6961c2556f&pf_rd_p=b919c641-8e33-49fa-a820-0b6961c2556f&pf_rd_r=96K194JW2GBRE0W7XYW8&pd_rd_wg=9kt1Z&pd_rd_r=fefe3666-dcb0-4eae-b13e-4847ea39be56&ref_=pd_hp_d_r_btf_a2i_gw_cml&th=1&psc=1",
+        "target_price": 700.0,
+        "email": "menikaranakal@gmail.com",
+        "scraper": "selenium",
+        "id": 6,
+        "current_price": 769.0,
+        "price_history": [
+            {
+                "price": 769.0,
+                "timestamp": "2026-09-30T22:07:29.573094"
+            }
+        ],
+        "status": "Target price not reached"
+    },
+    {
+        "name": "led",
+        "url": "https://www.amazon.in/One94Store-Romantic-Photo-String-Lights/dp/B0G44LFTV9/ref=sr_1_6?_encoding=UTF8&content-id=amzn1.sym.896aef9a-4ac4-4e5f-89b4-981e727772e9&dib=eyJ2IjoiMSJ9.oQ1mdp67Q2GI2LXMv6OdAMNraS_xQks4Pnot5gNAIRFDoPSn09EsPd3t18ukjTMfgYw3CGXYV9S4b46x4po6jpYTCsKS7fduL45fbsqjF5davhHpfURbF4dGKUO2HQQ467_LRXelwUDqSMyKnvdpb5jEwT6yixrbw83Er3kWSDB5OICkwycU1V0xdg8euRhuN57KDZjQs62nAlTuzyaQrtdqc7dirFEkBre-ZziPfcfLpG0asVT5iZVOg5fC7ZuZpamlliy50Wh63vImimQ5s-2a664C1YIhgJoB7ZvNH6k.27SUlaiBYmC3i6Izj-T2D2ihXBNVOS6_iVvgnF30HRQ&dib_tag=se&pd_rd_r=fefe3666-dcb0-4eae-b13e-4847ea39be56&pd_rd_w=Wuv89&pd_rd_wg=9kt1Z&qid=1790786423&refinements=p_n_format_browse-bin%3A19560799031%2Cp_28%3A-Presto!-Naturalis&s=kitchen&sr=1-6&th=1",
+        "target_price": 150.0,
+        "email": "menikaranakal@gmail.com",
+        "scraper": "selenium",
+        "id": 7,
+        "current_price": 170.0,
+        "price_history": [
+            {
+                "price": 170.0,
+                "timestamp": "2026-09-30T22:25:12.277721"
+            }
+        ],
+        "status": "Target price not reached"
+    },
+    {
+        "name": "bag",
+        "url": "https://www.flipkart.com/quento-women-beige-hobo/p/itmdd1c58b58ba43?pid=HMBHR7T5HCEEMGTP&lid=LSTHMBHR7T5HCEEMGTPV2OXZ7&marketplace=FLIPKART&store=reh%2Fihu%2Fm08&srno=b_1_9&otracker=browse&fm=organic&iid=82c3f5cc-2174-4bf3-b6e3-5d6db37e40ec.HMBHR7T5HCEEMGTP.SEARCH&ppt=None&ppn=None&ssid=10byy9n7ts0000001790832403261&ov_redirect=true",
+        "target_price": 150.0,
+        "email": "menikaranakal@gmail.com",
+        "scraper": "selenium",
+        "id": 8,
+        "current_price": 150.0,
+        "alert_sent": true,
+        "price_history": [
+            {
+                "price": 150.0,
+                "timestamp": "2026-10-01T11:18:57.206500"
+            },
+            {
+                "price": 150.0,
+                "timestamp": "2026-10-01T11:21:43.662926"
+            },
+            {
+                "price": 150.0,
+                "timestamp": "2026-10-01T11:24:11.013609"
+            }
+        ],
+        "status": "Target price reached"
+    }
+]
